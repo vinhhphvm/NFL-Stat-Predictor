@@ -27,7 +27,7 @@ About 21% of player-games include a touchdown, so a model that always says "no" 
 
 ## Known simplifications
 
-- A player is counted as "playing" if he had at least one carry, target, or pass attempt.
+- A player is counted as "playing" if they had at least one carry, target, or pass attempt.
 - `spread_line` / `total_line` are closing lines, which move slightly after Wednesday.
 
 ## Setup
